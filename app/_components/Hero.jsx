@@ -10,13 +10,13 @@ function Hero() {
         <section className="bg-white text-black">
   <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
     <div className="mx-auto max-w-3xl text-center">
-      <span
-        className="text-orange-400 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
+      <h1
+        className="text-orange-400  text-3xl font-extrabold sm:text-5xl"
       >
         Track Smart, 
-        </span>
 
         <span className="sm:block text-yellow-500">  Spend Wise </span>
+      </h1>
 
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
   Manage your expenses effortlessly with KarchaKalkulator. Track your spending, stay within budget, and achieve your financial goals with ease. Simplify your financial life today!
