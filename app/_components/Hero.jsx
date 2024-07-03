@@ -11,11 +11,11 @@ function Hero() {
   <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
     <div className="mx-auto max-w-3xl text-center">
       <h1
-        className="bg-gradient-to-r from-yellow-400 via-orange-500 to-red-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
+        className="text-orange-500 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
       >
         Track Smart, 
 
-        <span className="sm:block">  Spend Wise </span>
+        <span className="sm:block text-yellow-500">  Spend Wise </span>
       </h1>
 
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
